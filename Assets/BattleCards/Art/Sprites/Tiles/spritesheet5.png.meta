@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -118,15 +118,15 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a275350c06506b74296faec152e593f0
-      internalID: -641269491
+      spriteID: e6f9fade23a35d34a8ce80fdd810008d
+      internalID: 2069989579
       vertices: []
       indices: 
       edges: []
@@ -135,20 +135,20 @@ TextureImporter:
       name: spritesheet5_1
       rect:
         serializedVersion: 2
-        x: 256
+        x: 255
         y: 512
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4d94a89408e56d46aa691c19c8d55db
-      internalID: -2030484848
+      spriteID: 9a863ff909476794c9cfeca4b29a463b
+      internalID: 410110866
       vertices: []
       indices: 
       edges: []
@@ -157,20 +157,20 @@ TextureImporter:
       name: spritesheet5_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 512
+        y: 512
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7a1f7732d510bb438479d7ce0944430
-      internalID: 1080825100
+      spriteID: 9097c2340c0b97c4b9b6f58a58ea22f7
+      internalID: 773540903
       vertices: []
       indices: 
       edges: []
@@ -179,20 +179,20 @@ TextureImporter:
       name: spritesheet5_3
       rect:
         serializedVersion: 2
-        x: 254
+        x: 0
         y: 0
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c29abe45668931428ec1a83df48229a
-      internalID: 352984978
+      spriteID: 4d634099e180869489d08a5e1b94e976
+      internalID: 324722355
       vertices: []
       indices: 
       edges: []
@@ -201,20 +201,20 @@ TextureImporter:
       name: spritesheet5_4
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
+        x: 256
+        y: 0
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc77341e2899710478ce11cf65de1acb
-      internalID: -1537566693
+      spriteID: 807565870f1363141826c5534ebfc953
+      internalID: -698266495
       vertices: []
       indices: 
       edges: []
@@ -228,15 +228,15 @@ TextureImporter:
         width: 256
         height: 256
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f3c7b53fd917ba4990fff6ca21c10cb
-      internalID: 337599938
+      spriteID: d947925bbb44483459afc845065cb8f3
+      internalID: -333366557
       vertices: []
       indices: 
       edges: []
@@ -245,7 +245,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4ad1fc97e6a5c154ba324f4761aa9c4d
+    spriteID: 5372a0d8c270f824ba2f80be75cfe146
     internalID: 0
     vertices: []
     indices: 
@@ -255,12 +255,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spritesheet5_0: -641269491
-      spritesheet5_1: -2030484848
-      spritesheet5_2: 1080825100
-      spritesheet5_3: 352984978
-      spritesheet5_4: -1537566693
-      spritesheet5_5: 337599938
+      spritesheet5_0: 2069989579
+      spritesheet5_1: 410110866
+      spritesheet5_2: 773540903
+      spritesheet5_3: 324722355
+      spritesheet5_4: -698266495
+      spritesheet5_5: -333366557
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
